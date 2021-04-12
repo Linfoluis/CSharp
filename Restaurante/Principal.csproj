@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA6B4918-ADF4-48DE-BE52-F8C48CBF87CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Restaurante</RootNamespace>
+    <AssemblyName>Restaurante</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddGrupo.designer.cs">
+      <DependentUpon>frmAddGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompras.Designer.cs">
+      <DependentUpon>frmCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComprasProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComprasProd.Designer.cs">
+      <DependentUpon>frmComprasProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaReserva.Designer.cs">
+      <DependentUpon>frmConsultaReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCtrlReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCtrlReservas.designer.cs">
+      <DependentUpon>frmCtrlReservas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadFunc.designer.cs">
+      <DependentUpon>frmCadFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadProdutos.designer.cs">
+      <DependentUpon>frmCadProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClienteFidel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClienteFidel.designer.cs">
+      <DependentUpon>frmClienteFidel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNovoFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNovoFunc.designer.cs">
+      <DependentUpon>frmNovoFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNovoProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNovoProd.designer.cs">
+      <DependentUpon>frmNovoProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadForn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadForn.Designer.cs">
+      <DependentUpon>frmCadForn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNovoForn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNovoForn.Designer.cs">
+      <DependentUpon>frmNovoForn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdMaisVend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdMaisVend.designer.cs">
+      <DependentUpon>frmProdMaisVend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReservar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReservar.Designer.cs">
+      <DependentUpon>frmReservar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNovaReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNovaReserva.Designer.cs">
+      <DependentUpon>frmNovaReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncoesBD.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddGrupo.resx">
+      <DependentUpon>frmAddGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompras.resx">
+      <DependentUpon>frmCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComprasProd.resx">
+      <DependentUpon>frmComprasProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaReserva.resx">
+      <DependentUpon>frmConsultaReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCtrlReservas.resx">
+      <DependentUpon>frmCtrlReservas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadFunc.resx">
+      <DependentUpon>frmCadFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadProdutos.resx">
+      <DependentUpon>frmCadProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClienteFidel.resx">
+      <DependentUpon>frmClienteFidel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNovoFunc.resx">
+      <DependentUpon>frmNovoFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNovoProd.resx">
+      <DependentUpon>frmNovoProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadForn.resx">
+      <DependentUpon>frmCadForn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNovoForn.resx">
+      <DependentUpon>frmNovoForn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdMaisVend.resx">
+      <DependentUpon>frmProdMaisVend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReservar.resx">
+      <DependentUpon>frmReservar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNovaReserva.resx">
+      <DependentUpon>frmNovaReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_korganizer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_action_reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_kaddressbook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_business.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_business1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_Login_Manager.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

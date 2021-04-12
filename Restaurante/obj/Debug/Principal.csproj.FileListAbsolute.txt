@@ -1,0 +1,90 @@
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Principal.frmPrincipal.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Principal.frmCadFunc.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\Restaurante\Restaurante\obj\Debug\Principal.frmNovoCad.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmCadFunc.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmPrincipal.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmCadProdutos.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmCadForn.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoFunc.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoProd.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoForn.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmAddGrupo.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmClienteFidel.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmProdMaisVend.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmCtrlReservas.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmCompras.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmComprasProd.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmVendas.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmReservar.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmNovaReserva.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\Restaurante\obj\Debug\Principal.frmConsultaReserva.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmAddGrupo.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmCompras.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmComprasProd.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmConsultaReserva.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmCtrlReservas.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmCadFunc.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmCadProdutos.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmClienteFidel.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoFunc.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoProd.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmCadForn.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoForn.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmPrincipal.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmProdMaisVend.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmReservar.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmVendas.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.frmNovaReserva.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Ricardo oliveira\Desktop\TRABALHOS CURSO INFORMATICA\TCM\C#\C# FINAL\C# FINAL\Restaurante\obj\Debug\Principal.csproj.GenerateResource.Cache
+D:\C#_FINAL-2015-11-11\C# FINAL\Restaurante\bin\Debug\Restaurante.exe.config
+D:\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Restaurante.exe
+D:\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Restaurante.pdb
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\bin\Debug\Restaurante.exe.config
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\bin\Debug\Restaurante.exe
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\bin\Debug\Restaurante.pdb
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.csprojAssemblyReference.cache
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmAddGrupo.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmCompras.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmComprasProd.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmConsultaReserva.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmCtrlReservas.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmCadFunc.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmCadProdutos.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmClienteFidel.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoFunc.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoProd.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmCadForn.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmNovoForn.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmPrincipal.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmProdMaisVend.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmReservar.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmVendas.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.frmNovaReserva.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.csproj.GenerateResource.cache
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Restaurante.exe
+D:\FATEC\OUTROS\C#_FINAL-2015-11-11\C# FINAL\Restaurante\obj\Debug\Restaurante.pdb
